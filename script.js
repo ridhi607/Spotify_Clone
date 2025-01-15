@@ -10,12 +10,12 @@ let masterSongName = document.getElementById('masterSongName')
 let songItems = Array.from(document.getElementsByClassName('songItem'));
 
 let songs = [
-    {songName: "Salaam - e - ishq", filePath: "songs/1.mp3", coverPath: "covers/1.jpg"},
-    {songName: "Tumhari Kasam - Salaam - e - ishq", filePath: "songs/2.mp3", coverPath: "covers/2.jpg"},
-    {songName: "Bhula Dena - Salaam - e - ishq", filePath: "songs/3.mp3", coverPath: "covers/3.jpg"},
-    {songName: "Rabba - Salaam - e - ishq", filePath: "songs/4.mp3", coverPath: "covers/4.jpg"},
-    {songName: "Sakhiyaan - Salaam - e - ishq", filePath: "songs/5.mp3", coverPath: "covers/5.jpg"},
-    {songName: "Na Jaana - Salaam - e - ishq", filePath: "songs/6.mp3", coverPath: "covers/6.jpg"}
+    {songName: "Enchanted - Taylor Swift", filePath: "songs/1.mp3", coverPath: "covers/1.jpg"},
+    {songName: "Stitches - Shawn Mendes", filePath: "songs/2.mp3", coverPath: "covers/2.jpg"},
+    {songName: "Circles - Post Malone", filePath: "songs/3.mp3", coverPath: "covers/3.jpg"},
+    {songName: "Blinding Lights - The Wknd", filePath: "songs/4.mp3", coverPath: "covers/4.jpg"},
+    {songName: "Scientist - Coldplay", filePath: "songs/5.mp3", coverPath: "covers/5.jpg"},
+    {songName: "Yellow - Coldplay", filePath: "songs/6.mp3", coverPath: "covers/6.jpg"}
 ]
 
 
